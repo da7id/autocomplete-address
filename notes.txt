@@ -1,0 +1,3 @@
+Place autocomplete form - fill in necessary data - https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform
+Autocomplete documentation - https://developers.google.com/maps/documentation/javascript/places-autocomplete#address_forms
+API key - AIzaSyCCQ2nRAtPcH3SPV7pYqjoNDjT0z9bUHgc
