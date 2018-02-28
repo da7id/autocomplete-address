@@ -3,4 +3,4 @@ var options = {
 
 };
 
-autocomplete = new google.maps.place.Autocomplete( input, options );
+autocomplete = new google.maps.places.Autocomplete( input, options );
